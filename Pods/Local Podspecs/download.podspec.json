@@ -1,6 +1,6 @@
 {
   "name": "download",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A short description of download.",
   "description": "zhuzj",
   "homepage": "http://EXAMPLE/download",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/zhuzhijia/TestPod.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "source_files": [
     "Source",

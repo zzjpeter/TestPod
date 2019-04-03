@@ -1,5 +1,5 @@
 PODS:
-  - download (0.0.1)
+  - download (0.0.2)
 
 DEPENDENCIES:
   - download (from `./TestPod/LocalLib/download/`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "./TestPod/LocalLib/download/"
 
 SPEC CHECKSUMS:
-  download: 09518dc9cd948f4f3b5e2b6125286d7d703f05a6
+  download: 5828dee0b3730a2eec313e0cc93ff0d83e90e979
 
-PODFILE CHECKSUM: ee1344f82064f9849b3302361e081ac0223c1342
+PODFILE CHECKSUM: 290bc3ee01073f90523088d53eeba2f9ced6bec3
 
 COCOAPODS: 1.6.1

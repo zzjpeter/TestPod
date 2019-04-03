@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "download"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of download."
 
   # This description is used to generate tags and improve search results.
@@ -80,11 +80,11 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/zhuzhijia/TestPod.git", :tag => "0.0.1" }
+  spec.source       = { :git => "https://github.com/zhuzhijia/TestPod.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  #
+  
   #  CocoaPods is smart about how it includes source code. For source files
   #  giving a folder will include any swift, h, m, mm, c & cpp files.
   #  For header files it will include any header in the folder.
