@@ -20,5 +20,9 @@
     // Do any additional setup after loading the view.
 }
 
+//test merge multi commits 1
+//test merge multi commits 2
+//test merge multi commits 3
+//test merge multi commits 4
 
 @end
